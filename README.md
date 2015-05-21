@@ -8,7 +8,9 @@ code from custom Framework
 -   Share the same data across the app and extensions
 -   Open the detail todo item directly from today extension
 
-[![snapshot][]![snapshot][1]][snapshot] **Known issue**: Somehow it
+[![snapshot][]![snapshot][1]][snapshot] 
+
+**Known issue**: Somehow it
 seems the Apple Watch app does not co-exist with the today extension
 app. It does not run until I delete the today extension. Took me long
 time to realize…
