@@ -553,6 +553,7 @@
 		764128A21B0E8F7500603693 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = shomigo.com;
 				TargetAttributes = {
@@ -1144,6 +1145,7 @@
 				764128CB1B0E8F7500603693 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		764128CC1B0E8F7500603693 /* Build configuration list for PBXNativeTarget "026-MyAppTests" */ = {
 			isa = XCConfigurationList;
@@ -1152,6 +1154,7 @@
 				764128CE1B0E8F7500603693 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		764128ED1B0E8F9300603693 /* Build configuration list for PBXNativeTarget "WKFramework" */ = {
 			isa = XCConfigurationList;
@@ -1160,6 +1163,7 @@
 				764128EF1B0E8F9300603693 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		764128F11B0E8F9300603693 /* Build configuration list for PBXNativeTarget "WKFrameworkTests" */ = {
 			isa = XCConfigurationList;
@@ -1168,6 +1172,7 @@
 				764128F31B0E8F9300603693 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		764129141B0E8FA800603693 /* Build configuration list for PBXNativeTarget "026-MyApp WatchKit App" */ = {
 			isa = XCConfigurationList;
@@ -1176,6 +1181,7 @@
 				764129161B0E8FA800603693 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		764129171B0E8FA800603693 /* Build configuration list for PBXNativeTarget "026-MyApp WatchKit Extension" */ = {
 			isa = XCConfigurationList;
@@ -1184,6 +1190,7 @@
 				764129191B0E8FA800603693 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		764129481B0E923300603693 /* Build configuration list for PBXNativeTarget "TodoToday" */ = {
 			isa = XCConfigurationList;
@@ -1192,6 +1199,7 @@
 				7641294A1B0E923300603693 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -15,5 +15,5 @@ seems the Apple Watch app does not co-exist with the today extension
 app. It does not run until I delete the today extension. Took me long
 time to realize…
 
-[snapshot]: http://audreyli.me/wp-content/uploads/2015/05/snapshot3.gif
-[1]: http://audreyli.me/wp-content/uploads/2015/05/snapshot4.png
+[snapshot]:https://raw.githubusercontent.com/vidaaudrey/026-Simple-Todo-App-With-Today-Extension/master/_snapshot/snapshot.gif
+[1]: https://raw.githubusercontent.com/vidaaudrey/026-Simple-Todo-App-With-Today-Extension/master/_snapshot/snapshot.png
